@@ -26,5 +26,6 @@ Learning development
   feature/sentry.io
   feature/stripe
   feature/testing
+  feature/ux
   feature/webpack
   feature/wordpress
