@@ -23,6 +23,7 @@ Learning development
   feature/performance
   feature/php
   feature/pwa
+  feature/python
   feature/roots
   feature/security
   feature/sentry.io
