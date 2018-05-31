@@ -17,11 +17,13 @@ Learning development
   feature/heroku
   feature/javascript
   feature/jenkins
+  feature/laravel
   feature/mixpanel
   feature/nodejs
   feature/performance
   feature/php
   feature/pwa
+  feature/roots
   feature/security
   feature/sentry.io
   feature/stripe
