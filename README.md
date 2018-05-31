@@ -5,6 +5,7 @@ Learning development
 
  feature/accessibility
   feature/analytics
+  feature/apis
   feature/aws
   feature/bdd
   feature/digital-ocean
@@ -16,11 +17,14 @@ Learning development
   feature/heroku
   feature/javascript
   feature/jenkins
+  feature/mixpanel
   feature/nodejs
   feature/performance
   feature/php
   feature/pwa
   feature/security
+  feature/sentry.io
+  feature/stripe
   feature/testing
   feature/webpack
   feature/wordpress
